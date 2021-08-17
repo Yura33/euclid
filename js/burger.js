@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if(headerNav.classList.contains('header__nav_active')) {
 
-      headerNav.style.height = `${hero.scrollHeight + header.clientHeight + 0.5}px`;
+      headerNav.style.height = `${hero.scrollHeight + header.clientHeight + 1}px`;
       logoLink.tabIndex = -1;
 
       lastHeaderLink.addEventListener('blur', () => {
