@@ -1,14 +1,19 @@
-# Евклид - проектные системы
+# Euclid - design systems
 
-*На этом проект одностраничного сайта реализованы:*
+## Description:
+*This is a one-page website based on the layout from Figma.*
 
-1. семантическая верстка
-2. адаптивность
-3. доступность
-4. кроссбраузерность
-5. методология БЭМ
-6. работа с JavaScript-плагинами
+## Stack technologies:
+*JS, JQuery, HTML, CSS*
+
+## Implemented:
+
+1. *semantic layout*
+2. *adaptability*
+3. *accessibility*
+4. *cross-browser*
+5. *BEM methodology*
+6. *working with JavaScript plugins:*
    - [Swiper](https://swiperjs.com)
    - [Accordion](https://jqueryui.com/accordion)
-7. бургер меню
-
+7. *burger menu*
