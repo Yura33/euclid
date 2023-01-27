@@ -1,5 +1,7 @@
 # Euclid - design systems
 
+:point_right: **[VIEW](https://yura33.github.io/euclid/)**
+
 ## Description:
 *This is a one-page website based on the layout from Figma.*
 
